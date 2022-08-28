@@ -1,0 +1,11 @@
+C:\Users\jeffr\source\repos\HoneyBadger\HoneyBadger\bin\Debug\net48\HoneyBadger.gha
+C:\Users\jeffr\source\repos\HoneyBadger\HoneyBadger\bin\Debug\net48\HoneyBadger.pdb
+C:\Users\jeffr\source\repos\HoneyBadger\HoneyBadger\obj\Debug\net48\HoneyBadger.Properties.Resources.resources
+C:\Users\jeffr\source\repos\HoneyBadger\HoneyBadger\obj\Debug\net48\HoneyBadger.csproj.GenerateResource.cache
+C:\Users\jeffr\source\repos\HoneyBadger\HoneyBadger\obj\Debug\net48\HoneyBadger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\source\repos\HoneyBadger\HoneyBadger\obj\Debug\net48\HoneyBadger.AssemblyInfoInputs.cache
+C:\Users\jeffr\source\repos\HoneyBadger\HoneyBadger\obj\Debug\net48\HoneyBadger.AssemblyInfo.cs
+C:\Users\jeffr\source\repos\HoneyBadger\HoneyBadger\obj\Debug\net48\HoneyBadger.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\source\repos\HoneyBadger\HoneyBadger\obj\Debug\net48\HoneyBadger.gha
+C:\Users\jeffr\source\repos\HoneyBadger\HoneyBadger\obj\Debug\net48\HoneyBadger.pdb
+C:\Users\jeffr\source\repos\HoneyBadger\HoneyBadger\obj\Debug\net48\HoneyBadger.csproj.AssemblyReference.cache
