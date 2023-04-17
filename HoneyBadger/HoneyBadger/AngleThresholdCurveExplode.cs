@@ -24,7 +24,7 @@ namespace HoneyBadger
         protected override void RegisterInputParams(GH_Component.GH_InputParamManager pManager)
         {
             pManager.AddCurveParameter("polyCurve", "Pc", "", GH_ParamAccess.item);
-            pManager.AddNumberParameter("angle", "a", "", GH_ParamAccess.item);
+            pManager.AddNumberParameter("angle", "a", "", GH_ParamAccess.item, 0.1);
         }
 
 
@@ -32,10 +32,11 @@ namespace HoneyBadger
         {
             pManager.AddCurveParameter("polyCurves", "Pc", "", GH_ParamAccess.list);
         }
-
+       
 
         protected override void SolveInstance(IGH_DataAccess DA)
         {
+
             Curve crv = null;
             List<double> oRads = new List<double>();
             double iRad = new double();
@@ -123,5 +124,7 @@ namespace HoneyBadger
 
 
         public override Guid ComponentGuid => new Guid("E68B5FB7-0434-4E8A-A9A2-4F9F0691AC32");
+
+
     }
 }

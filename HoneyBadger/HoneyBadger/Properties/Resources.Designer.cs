@@ -63,6 +63,16 @@ namespace HoneyBadger.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap A_cyberpunk_logo_of_a_honey_badger {
+            get {
+                object obj = ResourceManager.GetObject("A_cyberpunk_logo_of_a_honey_badger", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap AngleFinder {
             get {
                 object obj = ResourceManager.GetObject("AngleFinder", resourceCulture);
@@ -96,6 +106,26 @@ namespace HoneyBadger.Properties {
         internal static System.Drawing.Bitmap curveSmoothing {
             get {
                 object obj = ResourceManager.GetObject("curveSmoothing", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap IsCurveArkLike {
+            get {
+                object obj = ResourceManager.GetObject("IsCurveArkLike", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap IsCurveLinear {
+            get {
+                object obj = ResourceManager.GetObject("IsCurveLinear", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

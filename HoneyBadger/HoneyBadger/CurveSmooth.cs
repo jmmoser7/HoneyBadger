@@ -23,8 +23,8 @@ namespace HoneyBadger
         protected override void RegisterInputParams(GH_Component.GH_InputParamManager pManager)
         {
             pManager.AddCurveParameter("curve", "c", "", GH_ParamAccess.item);
-            pManager.AddNumberParameter("factor", "f", "", GH_ParamAccess.item);
-            pManager.AddNumberParameter("iterations", "i", "", GH_ParamAccess.item);
+            pManager.AddNumberParameter("factor", "f", "", GH_ParamAccess.item, 0.5);
+            pManager.AddNumberParameter("iterations", "i", "", GH_ParamAccess.item , 1);
         }
 
         protected override void RegisterOutputParams(GH_Component.GH_OutputParamManager pManager)
@@ -34,6 +34,7 @@ namespace HoneyBadger
 
         protected override void SolveInstance(IGH_DataAccess DA)
         {
+
         }
 
         /// <summary>

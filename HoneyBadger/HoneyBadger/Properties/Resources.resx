@@ -121,6 +121,9 @@
   <data name="AngleFinder" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\AngleFinder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="A_cyberpunk_logo_of_a_honey_badger" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\A_cyberpunk_logo_of_a_honey_badger.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="CurveFlipper" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CurveFlipper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -129,6 +132,12 @@
   </data>
   <data name="curveSmoothing" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\curveSmoothing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IsCurveArkLike" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IsCurveArkLike.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IsCurveLinear" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IsCurveLinear.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MaxCurviturePoint" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MaxCurviturePoint.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

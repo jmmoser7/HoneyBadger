@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ee1SC8Wnwlm93/DwPYIy/A0Krai2fptgW8mp9KiwZ43Loe+ixABxWYxugQe1ZeHfJsn9DTV/PbgCW2K/vb6f0w==",
+  "dgSpecHash": "i7wDv6qxf02o/dmXvXkhcWfe4d/1DCDoNBq1KWu8nU8T7+YYqA7BcYE6Hf693gXxs+N30Ug9s8GsWaia0efGfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeffr\\source\\repos\\HoneyBadger\\HoneyBadger\\HoneyBadger.csproj",
+  "projectFilePath": "C:\\Users\\jmoser\\source\\repos\\HoneyBadger\\HoneyBadger\\HoneyBadger\\HoneyBadger.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jeffr\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
-    "C:\\Users\\jeffr\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+    "C:\\Users\\jmoser\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\jmoser\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
   ],
   "logs": []
 }

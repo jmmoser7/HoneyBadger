@@ -66,6 +66,7 @@ namespace HoneyBadger
                         num = Vector3d.VectorAngle(v1, v2); angle.Add(num);
 
                     }
+                    //you need an  expression for if the curve is open
                 }
                 if (i > 0)
                 {

@@ -1,7 +1,7 @@
-﻿using Grasshopper;
-using Grasshopper.Kernel;
-using System;
+﻿using System;
 using System.Drawing;
+using Grasshopper.GUI.Canvas;
+using Grasshopper.Kernel;
 
 namespace HoneyBadger
 {
@@ -9,8 +9,15 @@ namespace HoneyBadger
     {
         public override string Name => "HoneyBadger";
 
+
+
         //Return a 24x24 pixel bitmap to represent this GHA library.
-        public override Bitmap Icon => null;
+        public override Bitmap Icon       
+        {
+
+            get { return Properties.Resources.AngleFinder; }    
+        }
+        public override Bitmap AssemblyIcon => Properties.Resources.PolycurvePlane;
 
         //Return a short string describing the purpose of this GHA library.
         public override string Description => "";
